@@ -13,4 +13,6 @@ linux commaands for ECE 4th section b day 1 git workshop
 - cat (file discription)
 # Cloning Repository
 - git clone URLofrepositorylink
+# Initializing the git 
+- git init
 
