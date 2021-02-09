@@ -11,3 +11,6 @@ linux commaands for ECE 4th section b day 1 git workshop
 - touch (create a new file)
 - nano (edit a file)
 - cat (file discription)
+# Cloning Repository
+- git clone URLofrepositorylink
+
